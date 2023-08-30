@@ -1,0 +1,2 @@
+#!/bins/bash
+ls -al . .. /boot
